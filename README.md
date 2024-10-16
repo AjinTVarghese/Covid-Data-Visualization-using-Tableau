@@ -1,2 +1,12 @@
-# Covid-Data-Visualization-using-Tableau
-This Covid-19 Tableau dashboard offers interactive visualizations, including: Global Numbers table, Map: Percent Population Infected Per Country, Bar graph: Total Deaths Per Continent, Line graph: Percent Population Infected over time. These visualizations provide a clear understanding of the pandemic's global impact.
+# Covid Data Visualization using Tableau
+
+This interactive Covid-19 dashboard, built using Tableau, provides a comprehensive overview of the pandemic's global impact. Key visualizations include:
+
+- A Global Numbers table highlighting overall cases, deaths, and recoveries.
+- A map illustrating Percent Population Infected Per Country, pinpointing hotspots and areas of concern.
+- A bar graph displaying Total Deaths Per Continent, comparing the severity of the pandemic across regions.
+- A line graph tracking Percent Population Infected over time, revealing trends and patterns in infection rates.
+
+These intuitive visualizations enable users to quickly grasp the pandemic's scope, identify areas of high risk, and track changes over time.
+
+## Explore the dashboard here: https://public.tableau.com/app/profile/ajin.t.varghese/viz/CovidDashboard_17290590252910/Dashboard1
