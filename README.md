@@ -9,4 +9,8 @@ This interactive Covid-19 dashboard, built using Tableau, provides a comprehensi
 
 These intuitive visualizations enable users to quickly grasp the pandemic's scope, identify areas of high risk, and track changes over time.
 
-## Explore the dashboard here: https://public.tableau.com/app/profile/ajin.t.varghese/viz/CovidDashboard_17290590252910/Dashboard1
+### Data Source:
+- https://github.com/AjinTVarghese/Covid-Data-Exploration-using-SQL/blob/main/CovidDeaths.xlsx
+- https://github.com/AjinTVarghese/Covid-Data-Exploration-using-SQL/blob/main/CovidVaccinations.xlsx
+
+### Explore the dashboard here: https://public.tableau.com/app/profile/ajin.t.varghese/viz/CovidDashboard_17290590252910/Dashboard1
